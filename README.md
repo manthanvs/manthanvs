@@ -118,7 +118,7 @@ A structured, auto-synced collection of solutions via LeetHub.
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td colspan="2" valign="top">
 
 ### 📊 [Power BI + n8n Automation Dashboard](https://github.com/manthanvs/powerbi-n8n-dashboard)
 **Automated Data Pipeline & Analytics System**
