@@ -1,58 +1,146 @@
-# Hi, I'm Manthan VS 👋
+<div align="center">
 
-I'm a developer from Pune, Maharashtra, who enjoys building things that are actually useful — full-stack web apps, developer tools, and data dashboards. I'm currently sharpening my DSA skills on LeetCode and exploring how software can make everyday workflows smarter.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manthan%20VS&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-## 🔨 Featured Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Django+%2B+TypeScript+Enthusiast;LeetCode+Grinder+%F0%9F%A7%A9;Building+tools+that+matter+%E2%9C%A8)](https://git.io/typing-svg)
 
-### [ACLAS — Adaptive Coding Lifecycle Analytics System](https://github.com/manthanvs/ACLAS)
-A self-hosted developer productivity tracker I built as a university project. It's a two-part system: a **VS Code extension** that silently captures keystrokes, active/idle time, and file activity via 30-second heartbeats, and a **Django backend** with a dark-themed analytics dashboard to visualise sessions, language distribution, and top projects.
+<br/>
 
-One of the more interesting pieces is a real-time **Developer Stress Score** computed from passive telemetry — error counts, build failures, undo frequency, and context-switching — weighted and capped at 100.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthanvs/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manthanvs)
+[![Location](https://img.shields.io/badge/📍_Pune,_Maharashtra-302b63?style=for-the-badge)](#)
 
-**Stack:** Django 6 · Django REST Framework · TypeScript · Chart.js · SQLite · Google OAuth
-
----
-
-### [Project Armourr India](https://github.com/manthanvs/Project-Armourr-INDIA)
-A single-page application built to showcase a company's brand and offerings. Focused on clean UI and smooth JavaScript-driven interactions.
-
-**Stack:** JavaScript · CSS · HTML
+</div>
 
 ---
 
-### [Blinkit Sales Dashboard (Excel)](https://github.com/manthanvs/Sales_Analysis_in_Excel_blinkit_dashboard)
-An interactive Excel dashboard that analyses Blinkit sales data across outlets and product categories. Built with pivot tables, KPI cards, and slicers to surface trends in sales volume, outlet performance, and category breakdowns — without writing a single line of code.
+## 👨‍💻 About Me
+
+Hey! I'm **Manthan** — a developer from Pune who builds things that solve actual problems. I'm into full-stack web development, developer tooling, and data analysis. Currently levelling up my DSA fundamentals on LeetCode while working on projects that bridge utility with clean design.
+
+- 🔭 Currently building: **ACLAS** — a VS Code extension + Django productivity tracker
+- 🧩 Grinding: **LeetCode** in Java & Python (186+ submissions)
+- 📊 Exploring: **Data analysis & dashboards** with Excel and beyond
+- 💬 Ask me about: Django, REST APIs, TypeScript, or anything full-stack
 
 ---
 
-## 🧩 DSA Practice
+## 🛠 Tech Stack
 
-I maintain a structured LeetCode repository in **Java and Python**, tracked automatically via LeetHub. Currently covers Arrays, Two Pointers, Hash Tables, Dynamic Programming, Greedy, Strings, Sorting, Heap, and Prefix Sum — with 186+ commits and counting.
+<div align="center">
 
-→ [View DSA repo](https://github.com/manthanvs/DSA)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [ACLAS](https://github.com/manthanvs/ACLAS)
+**Adaptive Coding Lifecycle Analytics System**
+
+A full-stack developer productivity tracker built as a university project.
+
+- 🔌 **VS Code Extension** — tracks keystrokes, active/idle time & file activity via 30s heartbeats
+- 🖥️ **Django REST backend** — token-authenticated telemetry ingestion
+- 📊 **Dark-themed dashboard** — Chart.js visualisations with a custom *Synthetix Dark* design system
+- 🧪 **Stress Score engine** — real-time weighted formula using errors, undos & build failures
+
+`Django` `TypeScript` `DRF` `Chart.js` `OAuth`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Project Armourr India](https://github.com/manthanvs/Project-Armourr-INDIA)
+**Company Showcase SPA**
+
+A polished single-page application built to present a company's brand and services, with a focus on smooth JS interactions and clean UI.
+
+- ⚡ 48 commits of iterative refinement
+- 🎨 CSS-heavy with rich visual presentation
+- 📱 Single-page, client-side architecture
+
+`JavaScript` `CSS` `HTML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Blinkit Sales Dashboard](https://github.com/manthanvs/Sales_Analysis_in_Excel_blinkit_dashboard)
+**Interactive Excel Analytics**
+
+An end-to-end sales analysis dashboard for Blinkit data — no code required.
+
+- 📈 KPI cards, pivot tables & dynamic charts
+- 🔍 Slicers for outlet, category & location filters
+- 💡 Surfaces trends in outlet performance & product mix
+
+`Excel` `Pivot Tables` `Data Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [DSA](https://github.com/manthanvs/DSA)
+**LeetCode Solutions Archive**
+
+A structured, auto-synced collection of solutions via LeetHub.
+
+- 💻 **186+ commits**, consistently growing
+- ☕ **Java** + 🐍 **Python** dual-language approach
+- 🗂️ Topics: Arrays, Hash Tables, DP, Greedy, Two Pointers, Strings, Heaps & more
+
+`Java` `Python` `LeetCode`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech I Work With
+## 📈 GitHub Stats
 
-| Area | Tools |
-|---|---|
-| Backend | Django, Django REST Framework, Python |
-| Frontend | JavaScript, TypeScript, HTML, CSS |
-| Data | Microsoft Excel (Pivot Tables, Dashboards) |
-| Database | SQLite, PostgreSQL |
-| Dev Tools | VS Code, Git, LeetHub |
-| Languages | Java, Python, JavaScript, TypeScript |
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=manthanvs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=cdd6f4" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanvs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cdd6f4" height="165"/>
 
-## 📫 Connect
+<br/><br/>
 
-- LinkedIn: [linkedin.com/in/manthanvs](https://www.linkedin.com/in/manthanvs/)
-- GitHub: [github.com/manthanvs](https://github.com/manthanvs)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanvs&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="165"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 *Always open to collaborating on projects that solve real problems.*
+
+</div>
