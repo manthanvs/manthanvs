@@ -121,7 +121,7 @@ A structured, auto-synced collection of solutions via LeetHub.
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <div align="center">
 
@@ -133,7 +133,7 @@ A structured, auto-synced collection of solutions via LeetHub.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanvs&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="165"/>
 
-</div>
+</div> -->
 
 ---
 
